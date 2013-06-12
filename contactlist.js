@@ -1,11 +1,11 @@
 var friends = {};
-friends.bill = {
+friends.warren = {
 firstName: "Warren",
 lastName: "Buffett",
 number: "(402) 555-5555",
 address: ['3555 Farnam St','Omaha','NE','68131']
 };
-friends.steve = {
+friends.bill = {
 firstName: "Bill",
 lastName: "Gates",
 number: "(206) 555-5555",
